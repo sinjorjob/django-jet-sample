@@ -3,8 +3,8 @@
 
 
 
-![demo](https://github.com/sinjorjob/django-notification-function/blob/master/images/django-notification-hq.gif)
+![demo](https://github.com/sinjorjob/django-jet-sample/blob/master/images/django-jet.png)
 
 
 
-![demo](https://github.com/sinjorjob/django-notification-function/blob/master/images/django-notification-hq.gif)
+![demo](https://github.com/sinjorjob/django-jet-sample/blob/master/images/django-jet.gif)
